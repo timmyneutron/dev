@@ -1,0 +1,306 @@
+{
+  "$id": "ce_test123",
+  "$schema": "https://schema.yext.com/config/km/field-presentation/v1",
+  "entityType": "ce_test123",
+  "displayName": "test customer settable",
+  "presentationEntries": [
+    {
+      "displayName": "Content",
+      "displayNameTranslations": [
+        {
+          "localeCode": "it",
+          "value": "Contenuti"
+        },
+        {
+          "localeCode": "sv",
+          "value": "Innehåll"
+        },
+        {
+          "localeCode": "fr",
+          "value": "Contenu"
+        },
+        {
+          "localeCode": "ja",
+          "value": "コンテンツ"
+        },
+        {
+          "localeCode": "cs",
+          "value": "Obsah"
+        },
+        {
+          "localeCode": "de",
+          "value": "Inhalt"
+        },
+        {
+          "localeCode": "hu",
+          "value": "Tartalom"
+        },
+        {
+          "localeCode": "fi",
+          "value": "Sisältö"
+        },
+        {
+          "localeCode": "sk",
+          "value": "Obsah"
+        },
+        {
+          "localeCode": "nl",
+          "value": "Inhoud"
+        },
+        {
+          "localeCode": "pt",
+          "value": "Conteúdo"
+        }
+      ],
+      "entryType": "DIVIDER"
+    },
+    {
+      "displayName": "Core Information",
+      "displayNameTranslations": [
+        {
+          "localeCode": "it",
+          "value": "Informazioni essenziali"
+        },
+        {
+          "localeCode": "sv",
+          "value": "Huvudinformation"
+        },
+        {
+          "localeCode": "fr",
+          "value": "Informations principales"
+        },
+        {
+          "localeCode": "ja",
+          "value": "基本情報"
+        },
+        {
+          "localeCode": "cs",
+          "value": "Klíčové informace"
+        },
+        {
+          "localeCode": "de",
+          "value": "Grundlegende Informationen"
+        },
+        {
+          "localeCode": "hu",
+          "value": "Alapadatok"
+        },
+        {
+          "localeCode": "fi",
+          "value": "Keskeiset tiedot"
+        },
+        {
+          "localeCode": "sk",
+          "value": "Základné informácie"
+        },
+        {
+          "localeCode": "nl",
+          "value": "Kerninformatie"
+        },
+        {
+          "localeCode": "pt",
+          "value": "Informação principal"
+        }
+      ],
+      "entryType": "SECTION",
+      "fields": [
+        {
+          "id": "yext/name"
+        },
+        {
+          "id": "yext/entityId"
+        }
+      ]
+    },
+    {
+      "displayName": "Other",
+      "displayNameTranslations": [
+        {
+          "localeCode": "it",
+          "value": "Altro"
+        },
+        {
+          "localeCode": "sv",
+          "value": "Annan"
+        },
+        {
+          "localeCode": "fr",
+          "value": "Autre"
+        },
+        {
+          "localeCode": "ja",
+          "value": "その他"
+        },
+        {
+          "localeCode": "cs",
+          "value": "Jiné"
+        },
+        {
+          "localeCode": "de",
+          "value": "Sonstige"
+        },
+        {
+          "localeCode": "hu",
+          "value": "Egyéb"
+        },
+        {
+          "localeCode": "fi",
+          "value": "Muu"
+        },
+        {
+          "localeCode": "sk",
+          "value": "Iné"
+        },
+        {
+          "localeCode": "nl",
+          "value": "Overig"
+        },
+        {
+          "localeCode": "pt",
+          "value": "Outro"
+        }
+      ],
+      "entryType": "DIVIDER"
+    },
+    {
+      "displayName": "Custom Fields",
+      "displayNameTranslations": [
+        {
+          "localeCode": "it",
+          "value": "Campi personalizzati"
+        },
+        {
+          "localeCode": "sv",
+          "value": "Specialfält"
+        },
+        {
+          "localeCode": "fr",
+          "value": "Champs personnalisés"
+        },
+        {
+          "localeCode": "ja",
+          "value": "カスタムフィールド"
+        },
+        {
+          "localeCode": "cs",
+          "value": "Vlastní pole"
+        },
+        {
+          "localeCode": "de",
+          "value": "Benutzerdefinierte Felder"
+        },
+        {
+          "localeCode": "hu",
+          "value": "Egyéni mezők"
+        },
+        {
+          "localeCode": "fi",
+          "value": "Mukautetut kentät"
+        },
+        {
+          "localeCode": "sk",
+          "value": "Vlastné polia"
+        },
+        {
+          "localeCode": "nl",
+          "value": "Aangepaste velden"
+        },
+        {
+          "localeCode": "pt",
+          "value": "Campos personalizados"
+        }
+      ],
+      "entryType": "SECTION",
+      "fields": [
+        {
+          "id": "c_nicoId9sdf91"
+        },
+        {
+          "id": "c_nicoTest11"
+        },
+        {
+          "id": "c_nicoTest12"
+        },
+        {
+          "id": "c_nicoTest13"
+        },
+        {
+          "id": "c_nicoTest14"
+        },
+        {
+          "id": "c_nicoTest5"
+        },
+        {
+          "id": "c_nicoTest6"
+        },
+        {
+          "id": "c_nicoTest7"
+        },
+        {
+          "id": "c_nicoTest8"
+        },
+        {
+          "id": "c_nicoCustomTypeTest"
+        }
+      ]
+    },
+    {
+      "displayName": "Internal Use Only",
+      "displayNameTranslations": [
+        {
+          "localeCode": "it",
+          "value": "Solo per uso interno"
+        },
+        {
+          "localeCode": "sv",
+          "value": "Endast för internt bruk"
+        },
+        {
+          "localeCode": "fr",
+          "value": "Usage interne uniquement"
+        },
+        {
+          "localeCode": "ja",
+          "value": "内部使用項目"
+        },
+        {
+          "localeCode": "cs",
+          "value": "Pouze k interním účelům"
+        },
+        {
+          "localeCode": "de",
+          "value": "Nur zur internen Verwendung"
+        },
+        {
+          "localeCode": "hu",
+          "value": "Csak belső használatra"
+        },
+        {
+          "localeCode": "fi",
+          "value": "Vain sisäiseen käyttöön"
+        },
+        {
+          "localeCode": "sk",
+          "value": "Len pre interné potreby"
+        },
+        {
+          "localeCode": "nl",
+          "value": "Alleen voor intern gebruik"
+        },
+        {
+          "localeCode": "pt",
+          "value": "Apenas para utilização interna"
+        }
+      ],
+      "entryType": "SECTION",
+      "fields": [
+        {
+          "id": "yext/folder"
+        },
+        {
+          "id": "yext/labels"
+        }
+      ]
+    }
+  ]
+}
